@@ -1,0 +1,158 @@
+[
+  {
+    "country": "New Zealand",
+   "news": [
+  {
+    "id": 1,
+    "title": "New Zealand Launches 'Kiwi STEM Scholarships 2025' for International Students",
+    "date": "05-09-2025",
+    "category": "Scholarships",
+    "description": "New Zealand has introduced the Kiwi STEM Scholarships 2025, offering up to NZD 30,000 for international students pursuing STEM degrees at top universities.",
+    "image": "https://images.unsplash.com/photo-1581091012184-5c1d8e8cf8e1?auto=format&fit=crop&w=1200&q=80",
+    "source": "New Zealand Ministry of Education",
+    "content": "The Kiwi STEM Scholarships 2025 aim to attract international talent in fields like biotechnology, AI, and environmental science. Students will receive mentorship, research lab access, and financial support. Applications open in November 2025 for the 2026 academic intake.",
+    
+    "overview_title": "Overview of Kiwi STEM Scholarships",
+    "overview_content": "This scholarship program provides international students financial support and opportunities to study at New Zealand’s leading universities in STEM fields.",
+    
+    "details_title": "Program Details",
+    "details_content": "Recipients can receive up to NZD 30,000 annually. The program includes mentorship, lab access, and networking with industry experts. Open to undergraduate and postgraduate students.",
+
+    "impact_title": "Impact on Students and Institutions",
+    "impact_content": "The scholarships boost academic excellence, foster global collaboration, and enhance universities’ research capabilities.",
+
+    "related_initiatives_title": "Related Initiatives",
+    "related_initiatives_content": "The scholarships align with government programs promoting STEM research, innovation hubs, and international collaboration.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "The program is expected to attract top international students, strengthen NZ’s STEM workforce, and support economic growth."
+  },
+  {
+    "id": 2,
+    "title": "New Zealand Universities Shine in Global Rankings 2025",
+    "date": "30-08-2025",
+    "category": "Rankings",
+    "description": "University of Auckland and University of Otago lead New Zealand’s presence in global university rankings, reflecting academic and research excellence.",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+    "source": "QS World University Rankings",
+    "content": "QS Rankings 2025 highlight New Zealand’s strong academic reputation. Universities excel in research impact, faculty quality, and international diversity, attracting global students.",
+    
+    "overview_title": "Overview of Rankings",
+    "overview_content": "NZ universities consistently demonstrate high-quality research, innovative teaching, and international collaboration, securing top positions globally.",
+    
+    "details_title": "Details Behind the Rankings",
+    "details_content": "Key factors include faculty expertise, research output, student diversity, and industry partnerships. Auckland and Otago remain top performers.",
+
+    "impact_title": "Impact on International Students",
+    "impact_content": "High rankings attract more students, scholarship opportunities, and access to world-class facilities.",
+
+    "related_initiatives_title": "Related University Programs",
+    "related_initiatives_content": "Universities run exchange programs, research fellowships, and collaborative projects to enhance their global reputation.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "NZ aims to strengthen its international profile by investing in research, innovation, and sustainable education."
+  },
+  {
+    "id": 3,
+    "title": "New Zealand Streamlines Student Visa Process for 2026",
+    "date": "15-09-2025",
+    "category": "Visa Update",
+    "description": "Immigration NZ introduces faster visa approvals, expanded online services, and reduced interview wait times for international students.",
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1200&q=80",
+    "source": "Immigration New Zealand",
+    "content": "New Zealand is implementing visa reforms for international students, including faster F-visa processing, online document submission, and digital verification systems.",
+    
+    "overview_title": "Overview of Visa Streamlining",
+    "overview_content": "The reforms aim to simplify student visa applications, making NZ a more attractive study destination.",
+
+    "details_title": "Details of New Measures",
+    "details_content": "Expanded appointment slots, online submissions, and digital verification reduce waiting times for student visas.",
+
+    "impact_title": "Impact on Students",
+    "impact_content": "Shorter processing times allow students to plan studies and accommodation efficiently.",
+
+    "related_initiatives_title": "Related Initiatives",
+    "related_initiatives_content": "Visa reforms complement scholarship programs and university preparatory courses.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "Digital enhancements are expected to increase international enrollment and strengthen NZ’s education sector globally."
+  },
+  {
+    "id": 4,
+    "title": "New Zealand Universities Expand Sustainable Campus Programs",
+    "date": "10-08-2025",
+    "category": "University Update",
+    "description": "NZ universities are promoting renewable energy, sustainable infrastructure, and environmental research across campuses.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "source": "University of Auckland",
+    "content": "The University of Auckland and Victoria University have launched Sustainable Campus Initiatives, investing in solar panels, electric transport, and green infrastructure.",
+    
+    "overview_title": "Overview of Sustainable Campus Programs",
+    "overview_content": "Programs focus on renewable energy, environmental research, and education, providing opportunities for students to engage in sustainability projects.",
+
+    "details_title": "Program Details",
+    "details_content": "Investments include solar panels, electric vehicles, energy-efficient buildings, and scholarships for environmental science students.",
+
+    "impact_title": "Impact on Students and Faculty",
+    "impact_content": "Students gain practical sustainability experience, while faculty expand research in green technology.",
+
+    "related_initiatives_title": "Related Initiatives",
+    "related_initiatives_content": "Partnerships with government and private organizations expand research and student opportunities.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "These initiatives aim to achieve carbon neutrality and position NZ as a leader in sustainable higher education."
+  },
+  {
+    "id": 5,
+    "title": "Tech Firms in New Zealand Partner with Universities for Paid Internships",
+    "date": "25-09-2025",
+    "category": "Career Opportunities",
+    "description": "Companies like Xero, Fonterra, and Orion are collaborating with universities to provide internships for international students.",
+    "image": "https://images.unsplash.com/photo-1581091215360-7c95f4b6a5bb?auto=format&fit=crop&w=1200&q=80",
+    "source": "Tech News NZ",
+    "content": "NZ tech firms are offering structured internship programs to provide students with hands-on experience in software development, data science, and engineering.",
+    
+    "overview_title": "Overview of Internship Programs",
+    "overview_content": "Partnerships with universities enhance career readiness and industry experience for students.",
+
+    "details_title": "Program Details",
+    "details_content": "Students gain practical experience, mentorship from industry professionals, and exposure to emerging technologies.",
+
+    "impact_title": "Impact on Students",
+    "impact_content": "Internships improve employability, networking, and industry knowledge.",
+
+    "related_initiatives_title": "Related Programs",
+    "related_initiatives_content": "Programs complement STEM scholarships and research fellowships.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "Continued collaboration is expected to strengthen NZ’s tech workforce and international student appeal."
+  },
+  {
+    "id": 6,
+    "title": "Post-Study Work Opportunities Expanded for STEM Graduates in New Zealand",
+    "date": "04-10-2025",
+    "category": "Visa Update",
+    "description": "Immigration NZ allows STEM graduates to work up to 3 years post-study, providing pathways to permanent residency.",
+    "image": "https://images.unsplash.com/photo-1581092588423-fc408e50f1c0?auto=format&fit=crop&w=1200&q=80",
+    "source": "Immigration New Zealand",
+    "content": "Post-study work visas have been extended to 36 months for STEM graduates, allowing them to gain experience in high-demand sectors and transition to residency.",
+    
+    "overview_title": "Overview of Post-Study Work Expansion",
+    "overview_content": "This expansion allows international graduates to work longer in NZ, enhancing career opportunities and attracting global talent.",
+
+    "details_title": "Program Details",
+    "details_content": "Eligible graduates can work for up to 36 months post-study. Compliance and guidance for residency pathways are included.",
+
+    "impact_title": "Impact on Graduates",
+    "impact_content": "Graduates gain experience, improve employability, and have potential residency pathways.",
+
+    "related_initiatives_title": "Related Programs",
+    "related_initiatives_content": "The initiative complements scholarships, internships, and research programs.",
+
+    "future_outlook_title": "Future Outlook",
+    "future_outlook_content": "The policy strengthens NZ’s STEM workforce and boosts its reputation as a top destination for international students."
+  }
+]
+
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Visit Visa for the United States (USA)",
+    "slug": "visit-visa-usa",
+    "short_description": "Travel to the United States for tourism, family visits, or short business trips with a valid B1/B2 visa.",
+    "banner_image": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80",
+    "overview": "The United States Visit Visa, commonly known as the B1/B2 visa, allows foreign nationals to travel temporarily for tourism, leisure, medical treatment, or short business visits. It provides an opportunity to explore the U.S., visit family and friends, or attend conferences and meetings.",
+    "key_features_title": "Key Highlights of the U.S. Visit Visa",
+    "key_features": [
+      "Visa type: B1 (Business) / B2 (Tourist)",
+      "Duration: Up to 6 months per visit",
+      "Multiple entry options available",
+      "Issued for 1–10 years depending on nationality",
+      "Requires in-person interview at a U.S. consulate"
+    ],
+    "benefits_title": "Benefits of a U.S. Visit Visa",
+    "benefits": [
+      "Explore popular destinations like New York, Los Angeles, and Washington D.C.",
+      "Meet relatives and attend social or family events",
+      "Participate in short-term business or training programs",
+      "Medical tourism and treatment opportunities",
+      "Flexible duration with possible extensions"
+    ],
+    "technologies_used_title": "Important Visa Systems & Resources",
+    "technologies_used": [
+      "U.S. Department of State Consular Electronic Application Center (CEAC)",
+      "DS-160 Online Application Form",
+      "U.S. Visa Information and Appointment Services Portal"
+    ],
+    "cta_text": "Apply for Your U.S. Visit Visa",
+    "cta_link": "/contact"
+  },
+  {
+    "title": "Visit Visa for Australia",
+    "slug": "visit-visa-australia",
+    "short_description": "Discover Australia’s stunning landscapes and vibrant cities with a Visitor Visa (Subclass 600).",
+    "banner_image": "https://images.unsplash.com/photo-1506976785307-8732e854ad77?auto=format&fit=crop&w=1200&q=80",
+    "overview": "Australia’s Visitor Visa (Subclass 600) is designed for tourists, family visitors, and short-term business travelers. It allows you to enjoy sightseeing, visit relatives, or attend business meetings while experiencing the unique Australian lifestyle.",
+    "key_features_title": "Key Highlights of the Australia Visitor Visa",
+    "key_features": [
+      "Visa subclass: 600 (Visitor Visa)",
+      "Stay duration: Up to 12 months",
+      "Stream options: Tourist, Family Sponsored, or Business Visitor",
+      "Multiple or single-entry options",
+      "Online application via ImmiAccount"
+    ],
+    "benefits_title": "Benefits of Visiting Australia",
+    "benefits": [
+      "Explore world-famous destinations like Sydney, Melbourne, and the Great Barrier Reef",
+      "Visit friends and family residing in Australia",
+      "Participate in business meetings or short conferences",
+      "Experience Australian culture and wildlife",
+      "Apply easily online with fast processing times"
+    ],
+    "technologies_used_title": "Important Systems & Resources",
+    "technologies_used": [
+      "ImmiAccount Visa Application Portal",
+      "Department of Home Affairs Visitor Visa Services",
+      "Electronic Travel Authority (ETA) System for eligible countries"
+    ],
+    "cta_text": "Apply for Your Australian Visitor Visa",
+    "cta_link": "/contact"
+  },
+  {
+    "title": "Visit Visa for New Zealand",
+    "slug": "visit-visa-new-zealand",
+    "short_description": "Experience New Zealand’s natural beauty and warm hospitality with a Visitor Visa.",
+    "banner_image": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022?auto=format&fit=crop&w=1200&q=80",
+    "overview": "New Zealand’s Visitor Visa allows travelers to enter the country for tourism, family visits, or short business activities. It provides flexibility for those who want to explore the country’s breathtaking scenery, attend events, or visit friends and family.",
+    "key_features_title": "Key Highlights of the New Zealand Visitor Visa",
+    "key_features": [
+      "Stay up to 9 months within an 18-month period",
+      "Single or multiple-entry options available",
+      "Family and business visit options",
+      "Online application through Immigration New Zealand portal",
+      "Quick eVisa processing for eligible applicants"
+    ],
+    "benefits_title": "Benefits of Visiting New Zealand",
+    "benefits": [
+      "Discover scenic destinations like Queenstown and Rotorua",
+      "Meet friends and family living in New Zealand",
+      "Attend short-term business meetings or events",
+      "Enjoy a visa process designed for global travelers",
+      "Option to extend stay if conditions are met"
+    ],
+    "technologies_used_title": "Important Systems & Resources",
+    "technologies_used": [
+      "Immigration New Zealand Online Portal",
+      "NZeTA (New Zealand Electronic Travel Authority)",
+      "Visa Verification and Processing Systems"
+    ],
+    "cta_text": "Apply for Your New Zealand Visitor Visa",
+    "cta_link": "/contact"
+  }
+]

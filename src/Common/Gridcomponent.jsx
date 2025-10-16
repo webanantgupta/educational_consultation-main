@@ -1,24 +1,27 @@
 import { useNavigate } from "react-router-dom";
+import moment from 'moment';
 
 const Gridcomponent = ({ gridData }) => {
   // console.log(gridData[0].news);
   const grid = gridData[0].news;
-  console.log(grid);
 
-const navigate = useNavigate();
+  const ascendingDateorderData = grid.sort((a, b) => moment(b.date) - moment(a.date) );
 
-const handleClick = (obj) =>{
-navigate("/view",{state:obj})
-}
+
+  const navigate = useNavigate();
+
+  const handleClick = (obj) => {
+    navigate("/view", { state: obj })
+  }
 
   return (
     <div className='grid_container' >
       {
-        grid.map((obj, index) => {
-          return <div  className="grid_container_element" key={index} onClick={()=>handleClick(obj)}>
+        ascendingDateorderData.map((obj, index) => {
+          return <div className="grid_container_element" key={index} onClick={() => handleClick(obj)}>
             <img src={obj.image} alt={obj.title} />
             <h4>{obj.title}</h4>
-            <p className="grid_container_date">Date : {obj.date}</p>
+            <p className="grid_container_date">Date : {moment(obj.date).format('DD-MM-YYYY')}</p>
           </div>
         })
       }

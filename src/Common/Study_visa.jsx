@@ -19,15 +19,14 @@ const Study_visa = ({ data }) => {
             {/* all three heading */}
             <div>
 
+
                  <div className='study_title_main'>
                     <h2>{data.title}</h2>
-
                  </div>
 
                 <div className='study_title'>
                      <p>{data.overview}</p>
                     <img src={data.banner_image} alt={data.title} />
-
                 </div>
 
                 <div className='study_section'>

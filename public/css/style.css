@@ -11818,7 +11818,7 @@ img {
 .study_title_main h2{
 text-align: center;
 margin: 80px 0px;
-color: #031c44 jjjjjjjjjjjjjjjjjj;
+color: #031c44 ;
 }
 
 .study_title{
@@ -12104,6 +12104,9 @@ text-align: center;
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 	 }
+	 .grid_container_element h4{
+         font-size: 15px;
+	 }
 
 }
 
@@ -12126,9 +12129,10 @@ text-align: center;
 
 .grid_container_date{
 	position: absolute;
-	top: 0px;
+	top: 10px;
 	padding: 5px;
 	background-color: white;
 	border-bottom-right-radius: 10px;
-	border-top-left-radius: 10px;
+	/* border-top-left-radius: 10px; */
+	border-top-right-radius: 10px;
 }

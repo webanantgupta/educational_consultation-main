@@ -26,7 +26,8 @@ const Footer = () => {
                       <div className="logo">
                         <Link to="/">
                           <div className="icon education_icon py-3 d-flex justify-content">
-                            <img src="/images/icon/education.png" alt="" />&nbsp;<h2 className='text-light'>Candid</h2>
+                            {/* <img src="/images/icon/education.png" alt="" />&nbsp;<h2 className='text-light'>Candid</h2> */}
+                            <img src='/images/icon/CandidLogo.png'/>
                           </div>
                           {/* <img src="images/footer-logo.png" alt="Logo" /> */}
                         </Link>

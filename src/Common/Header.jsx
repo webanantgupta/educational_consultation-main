@@ -57,7 +57,7 @@ const Header = () => {
                 <div className="logo py-0 d-flex justify-content-between">
                   <Link to="/">
                     <div className="icon education_icon py-3 d-flex justify-content-between">
-                     <img src='/public/images/icon/CandidLogo.png' alt='this is logo image'/>
+                     <img src='/images/icon/CandidLogo.png' alt='this is logo image'/>
                     </div>
                     {/* <img src="images/logo.png" alt="" title="" /> */}
                   </Link>

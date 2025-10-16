@@ -12118,6 +12118,11 @@ text-align: center;
 }
 
 
+@media (min-width:768px ) and (max-width:1076px){
+	    .grid_container_element h4{
+			font-size: 18px;
+		}
+	}
 .grid_container_element{
 	position: relative;
 	height: 500px;

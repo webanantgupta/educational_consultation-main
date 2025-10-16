@@ -33,7 +33,7 @@ const Footer = () => {
                         </Link>
                       </div>
                       <div className="text">
-                        bjbjbj ----
+                       
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi cum doloribus soluta necessitatibus tempora asperiores provident, commodi aspernatur, alias deleniti quo aperiam consequatur minus quia reprehenderit architecto, incidunt ratione nam.
                       </div>
                       <ul className="social-icons">

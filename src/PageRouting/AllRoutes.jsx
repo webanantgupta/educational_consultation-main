@@ -17,6 +17,10 @@ import News_Zealand from '../Pages/newsAndUpdates/News_Zealand'
 import News_UnitedKingdom from '../Pages/newsAndUpdates/News_UnitedKingdom'
 import News_America from '../Pages/newsAndUpdates/News_America'
 import ViewGridComponent from '../Common/ViewGridComponent'
+import Visitvisa_America from '../Pages/visitVisa/Visitvisa_America'
+import Visitvisa_Australia from '../Pages/visitVisa/Visitvisa_Australia'
+import Visitvisa_Newzealand from '../Pages/visitVisa/Visitvisa_Newzealand'
+import Visitvisa_UnitedKingdom from '../Pages/visitVisa/Visitvisa_UnitedKingdom'
 
 const AllRoutes = () => {
     return (
@@ -40,6 +44,12 @@ const AllRoutes = () => {
                     <Route path='/news_updates_unitedkingdom' element={<News_UnitedKingdom/>}/>
                     <Route path='/news_updates_america' element={<News_America/>}/>
                     <Route path='/view' element={<ViewGridComponent/>}/>
+                    <Route path='/visitvisa_america' element={<Visitvisa_America/>}/>
+                    <Route path='/visitvisa_australia' element={<Visitvisa_Australia/>}/>
+                    <Route path='/visitvisa_newzealand' element={<Visitvisa_Newzealand/>}/>
+                    <Route path='/visitvisa_unitedkingdom' element={<Visitvisa_UnitedKingdom/>}/>
+
+
                 </Routes>
                 <Footer />
             </BrowserRouter>

@@ -131,19 +131,19 @@ const Header = () => {
                       </li>
 
                       <li className='dropdown'>
-                        <Link >Visit Visas</Link>
+                        <Link to="#">Visit Visas</Link>
                         <ul>
                           <li>
-                            <Link>Australia</Link>
+                            <Link to="/visitvisa_australia">Australia</Link>
                           </li>
                           <li>
-                            <Link>New Zealand</Link>
+                            <Link to="/visitvisa_newzealand">New Zealand</Link>
+                          </li>
+                          <li >
+                            <Link to="/visitvisa_unitedkingdom">UK</Link>
                           </li>
                           <li>
-                            <Link>UK</Link>
-                          </li>
-                          <li>
-                            <Link>USA</Link>
+                            <Link to="/visitvisa_america">USA</Link>
                           </li>
                         </ul>
                       </li>

@@ -1,95 +1,109 @@
 [
-  {
-    "title": "Visit Visa for the United States (USA)",
-    "slug": "visit-visa-usa",
-    "short_description": "Travel to the United States for tourism, family visits, or short business trips with a valid B1/B2 visa.",
-    "banner_image": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80",
-    "overview": "The United States Visit Visa, commonly known as the B1/B2 visa, allows foreign nationals to travel temporarily for tourism, leisure, medical treatment, or short business visits. It provides an opportunity to explore the U.S., visit family and friends, or attend conferences and meetings.",
-    "key_features_title": "Key Highlights of the U.S. Visit Visa",
-    "key_features": [
-      "Visa type: B1 (Business) / B2 (Tourist)",
-      "Duration: Up to 6 months per visit",
-      "Multiple entry options available",
-      "Issued for 1–10 years depending on nationality",
-      "Requires in-person interview at a U.S. consulate"
-    ],
-    "benefits_title": "Benefits of a U.S. Visit Visa",
-    "benefits": [
-      "Explore popular destinations like New York, Los Angeles, and Washington D.C.",
-      "Meet relatives and attend social or family events",
-      "Participate in short-term business or training programs",
-      "Medical tourism and treatment opportunities",
-      "Flexible duration with possible extensions"
-    ],
-    "technologies_used_title": "Important Visa Systems & Resources",
-    "technologies_used": [
-      "U.S. Department of State Consular Electronic Application Center (CEAC)",
-      "DS-160 Online Application Form",
-      "U.S. Visa Information and Appointment Services Portal"
-    ],
-    "cta_text": "Apply for Your U.S. Visit Visa",
-    "cta_link": "/contact"
-  },
-  {
-    "title": "Visit Visa for Australia",
-    "slug": "visit-visa-australia",
-    "short_description": "Discover Australia’s stunning landscapes and vibrant cities with a Visitor Visa (Subclass 600).",
-    "banner_image": "https://images.unsplash.com/photo-1506976785307-8732e854ad77?auto=format&fit=crop&w=1200&q=80",
-    "overview": "Australia’s Visitor Visa (Subclass 600) is designed for tourists, family visitors, and short-term business travelers. It allows you to enjoy sightseeing, visit relatives, or attend business meetings while experiencing the unique Australian lifestyle.",
-    "key_features_title": "Key Highlights of the Australia Visitor Visa",
-    "key_features": [
-      "Visa subclass: 600 (Visitor Visa)",
-      "Stay duration: Up to 12 months",
-      "Stream options: Tourist, Family Sponsored, or Business Visitor",
-      "Multiple or single-entry options",
-      "Online application via ImmiAccount"
-    ],
-    "benefits_title": "Benefits of Visiting Australia",
-    "benefits": [
-      "Explore world-famous destinations like Sydney, Melbourne, and the Great Barrier Reef",
-      "Visit friends and family residing in Australia",
-      "Participate in business meetings or short conferences",
-      "Experience Australian culture and wildlife",
-      "Apply easily online with fast processing times"
-    ],
-    "technologies_used_title": "Important Systems & Resources",
-    "technologies_used": [
-      "ImmiAccount Visa Application Portal",
-      "Department of Home Affairs Visitor Visa Services",
-      "Electronic Travel Authority (ETA) System for eligible countries"
-    ],
-    "cta_text": "Apply for Your Australian Visitor Visa",
-    "cta_link": "/contact"
-  },
-  {
-    "title": "Visit Visa for New Zealand",
-    "slug": "visit-visa-new-zealand",
-    "short_description": "Experience New Zealand’s natural beauty and warm hospitality with a Visitor Visa.",
-    "banner_image": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022?auto=format&fit=crop&w=1200&q=80",
-    "overview": "New Zealand’s Visitor Visa allows travelers to enter the country for tourism, family visits, or short business activities. It provides flexibility for those who want to explore the country’s breathtaking scenery, attend events, or visit friends and family.",
-    "key_features_title": "Key Highlights of the New Zealand Visitor Visa",
-    "key_features": [
-      "Stay up to 9 months within an 18-month period",
-      "Single or multiple-entry options available",
-      "Family and business visit options",
-      "Online application through Immigration New Zealand portal",
-      "Quick eVisa processing for eligible applicants"
-    ],
-    "benefits_title": "Benefits of Visiting New Zealand",
-    "benefits": [
-      "Discover scenic destinations like Queenstown and Rotorua",
-      "Meet friends and family living in New Zealand",
-      "Attend short-term business meetings or events",
-      "Enjoy a visa process designed for global travelers",
-      "Option to extend stay if conditions are met"
-    ],
-    "technologies_used_title": "Important Systems & Resources",
-    "technologies_used": [
-      "Immigration New Zealand Online Portal",
-      "NZeTA (New Zealand Electronic Travel Authority)",
-      "Visa Verification and Processing Systems"
-    ],
-    "cta_text": "Apply for Your New Zealand Visitor Visa",
-    "cta_link": "/contact"
-  }
+ {
+  "id": 1,
+  "title": "Visit Visa for the United States (USA)",
+  "date": "2025-10-16",
+  "category": "Visa Information",
+  "description": "The U.S. Visit Visa (B1/B2) allows travelers to enter the United States for tourism, family visits, short business trips, or medical purposes.",
+  "image": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1200&q=80",
+  "source": "U.S. Department of State",
+  "content": "The United States Visit Visa, commonly known as the B1/B2 visa, is one of the most popular travel authorizations for international visitors. It allows individuals to temporarily visit the U.S. for tourism, business, or medical reasons. The visa enables travelers to explore the country’s cultural diversity, attend short-term conferences, or meet with family and friends. Depending on nationality, it can be issued for up to ten years with multiple entries.",
+  
+  "overview_title": "Overview of the U.S. Visit Visa (B1/B2)",
+  "overview_image": "https://www.state.gov/wp-content/uploads/2023/06/us-embassy-building.jpg",
+  "overview_content": "The B1/B2 visa is a non-immigrant visa category that allows temporary visits to the United States. The B1 component covers short business trips—such as attending meetings or conferences—while the B2 portion allows travel for leisure, family visits, or medical treatment. Applicants are required to complete the DS-160 form, pay the visa fee, schedule a consular interview, and present proof of funds and travel purpose.",
+  
+  "eligibility_title": "Eligibility and Application Process",
+  "eligibility_content": "To qualify for a U.S. Visit Visa, applicants must demonstrate intent to return to their home country after the visit. This is often proven through employment, property ownership, or family obligations. The application process includes filling out the DS-160 form online, submitting the required documents, attending a biometric appointment, and completing an in-person interview at a U.S. Embassy or Consulate.",
+  
+  "benefits_title": "Benefits of Obtaining a U.S. Visit Visa",
+  "benefits_content": "The B1/B2 visa provides an opportunity to explore America’s iconic cities, natural landmarks, and cultural attractions. It enables visitors to participate in short business meetings, training programs, or medical treatments. With multiple-entry privileges, visa holders can make several trips during the visa validity without reapplying each time.",
+  
+  "interview_tips_title": "Visa Interview Tips for a Successful Application",
+  "interview_tips_content": "Applicants should approach the visa interview with confidence and honesty. Bring all relevant documents—such as financial statements, travel itineraries, and employment verification—and answer questions clearly. Showing strong ties to your home country and genuine travel intent increases approval chances.",
+  
+  "travel_guidelines_title": "Travel Guidelines and Restrictions",
+  "travel_guidelines_content": "Travelers entering the United States with a B1/B2 visa are typically allowed a stay of up to six months. The final duration is determined by Customs and Border Protection officers upon arrival. Overstaying the permitted time can affect future visa applications. Travelers are advised to adhere to U.S. immigration laws and apply for an extension through USCIS if needed."
+},
+
+{
+  "id": 2,
+  "title": "Visit Visa for Australia",
+  "date": "2025-10-16",
+  "category": "Visa Information",
+  "description": "The Australia Visit Visa (Subclass 600) allows travelers to visit Australia for tourism, leisure, or to meet family and friends for a temporary stay.",
+  "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=1200&q=80",
+  "source": "Australian Department of Home Affairs",
+  "content": "The Australia Visit Visa, officially known as the Visitor Visa (Subclass 600), is designed for travelers who wish to explore the country’s natural wonders, visit family and friends, or engage in short-term business activities. It offers multiple streams, including tourism and family visit options, allowing stays of up to 3, 6, or 12 months. The visa promotes international travel and cultural exchange while ensuring visitor compliance with Australian immigration laws.",
+  
+  "overview_title": "Overview of the Australia Visit Visa (Subclass 600)",
+  "overview_image": "https://images.unsplash.com/photo-1504215680853-026ed2a45def?auto=format&fit=crop&w=1200&q=80",
+  "overview_content": "The Visitor Visa (Subclass 600) enables foreign nationals to temporarily enter Australia for tourism, visiting family, or short-term business purposes. Applicants can apply under different streams—Tourist, Sponsored Family, or Business Visitor—depending on the nature of their visit. The visa can be granted as a single or multiple-entry permit, depending on the applicant’s circumstances and travel history.",
+  
+  "eligibility_title": "Eligibility and Application Process",
+  "eligibility_content": "To be eligible for the Subclass 600 visa, applicants must demonstrate genuine intent to stay temporarily in Australia and have sufficient funds to cover travel expenses. The application process includes submitting an online application via the Australian Department of Home Affairs portal, uploading identity and financial documents, paying the applicable visa fee, and, in some cases, undergoing health checks or biometrics collection. Applicants sponsored by family members in Australia may be required to provide additional documentation.",
+  
+  "benefits_title": "Benefits of Obtaining an Australia Visit Visa",
+  "benefits_content": "The Australia Visit Visa allows travelers to enjoy breathtaking destinations such as Sydney, Melbourne, the Great Barrier Reef, and Uluru. Visitors can reconnect with family and friends, attend social events, or conduct short-term business activities such as attending conferences or meetings. With options for multiple entries and extended stays, this visa offers flexibility and convenience for international travelers.",
+  
+  "interview_tips_title": "Visa Application and Interview Tips",
+  "interview_tips_content": "Although most applications are processed online without an interview, applicants should ensure their documents are accurate and complete. Demonstrating strong ties to one’s home country—such as employment, property, or family—is essential. Be honest in your application, provide a clear travel itinerary, and ensure all financial and identity proofs are up to date to increase the likelihood of approval.",
+  
+  "travel_guidelines_title": "Travel Guidelines and Conditions",
+  "travel_guidelines_content": "Holders of the Visitor Visa (Subclass 600) can generally stay in Australia for up to 12 months, depending on the visa grant notice. Travelers must adhere to the visa conditions, including the prohibition of work unless specified otherwise. Extensions are allowed in certain cases by applying for another visa before the current one expires. Visitors must respect Australian laws and ensure their stay aligns with the authorized duration."
+},
+
+{
+  "id": 3,
+  "title": "Visit Visa for New Zealand",
+  "date": "2025-10-16",
+  "category": "Visa Information",
+  "description": "The New Zealand Visitor Visa allows travelers to visit New Zealand for tourism, leisure, short-term business, or to meet family and friends for a temporary stay.",
+  "image": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+  "source": "Immigration New Zealand (INZ)",
+  "content": "The New Zealand Visitor Visa is intended for travelers who wish to explore the country's natural landscapes, reconnect with family and friends, or engage in short business activities. Depending on eligibility, visitors can stay for up to 9 months in an 18-month period. The visa promotes cultural exchange and tourism while ensuring visitors comply with New Zealand’s immigration policies.",
+  
+  "overview_title": "Overview of the New Zealand Visitor Visa",
+  "overview_image": "https://images.unsplash.com/photo-1518085250887-2f903c200fee?auto=format&fit=crop&w=1200&q=80",
+  "overview_content": "The Visitor Visa allows foreign nationals to enter New Zealand temporarily for tourism, business meetings, or family visits. Citizens of visa-waiver countries can travel without applying for a visa but must obtain an NZeTA (New Zealand Electronic Travel Authority) before traveling. The visa can be issued as single or multiple-entry, depending on the applicant’s travel history and purpose.",
+  
+  "eligibility_title": "Eligibility and Application Process",
+  "eligibility_content": "To be eligible for a New Zealand Visitor Visa, applicants must hold a valid passport, show genuine travel intent, and have enough funds to cover travel and living expenses. The application can be completed online via the Immigration New Zealand (INZ) website. Required documents include proof of funds, a return ticket or onward travel confirmation, a recent photo, and a valid passport. In some cases, applicants may need to provide a medical certificate or police clearance for longer stays.",
+  
+  "benefits_title": "Benefits of Obtaining a New Zealand Visitor Visa",
+  "benefits_content": "With a Visitor Visa, travelers can experience New Zealand’s breathtaking destinations such as Queenstown, Rotorua, and Milford Sound. Visitors can attend short-term business events, cultural festivals, and family gatherings. The visa allows recreational study for up to three months and provides flexibility with options for single or multiple entries during the visa validity period.",
+  
+  "interview_tips_title": "Visa Application and Interview Tips",
+  "interview_tips_content": "Most New Zealand Visitor Visa applications are processed online without an interview. However, applicants should ensure all information is accurate and consistent. Provide clear evidence of financial stability, ties to your home country, and a detailed travel plan. Honesty and transparency throughout the application process are crucial for a smooth approval.",
+  
+  "travel_guidelines_title": "Travel Guidelines and Conditions",
+  "travel_guidelines_content": "Holders of the New Zealand Visitor Visa can typically stay up to 9 months within an 18-month period. Work is not permitted under this visa, and visitors must leave New Zealand before the visa expiry date. Extensions may be granted under special circumstances. All visitors must comply with New Zealand’s immigration and public health requirements during their stay."
+},
+{
+  "id": 4,
+  "title": "Visit Visa for the United Kingdom",
+  "date": "2025-10-16",
+  "category": "Visa Information",
+  "description": "The UK Standard Visitor Visa allows travelers to visit the United Kingdom for tourism, leisure, short-term business, or to meet family and friends for a temporary stay.",
+  "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+  "source": "UK Visas and Immigration (UKVI)",
+  "content": "The United Kingdom’s Standard Visitor Visa is designed for travelers wishing to explore the country’s rich history, attend business meetings, or visit relatives and friends. It typically allows a stay of up to 6 months and can be granted for single or multiple entries. The visa supports global tourism, cultural exchange, and short-term academic or business engagement while ensuring compliance with UK immigration laws.",
+  
+  "overview_title": "Overview of the UK Standard Visitor Visa",
+  "overview_image": "https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?auto=format&fit=crop&w=1200&q=80",
+  "overview_content": "The Standard Visitor Visa permits foreign nationals to visit the UK for tourism, leisure, short business trips, or family visits. It replaces previous categories such as the Family Visitor and Business Visitor visas. Depending on the applicant’s travel purpose, this visa can also cover attending conferences, short-term studies, or medical treatments. Multiple-entry visas may be issued, valid for 2, 5, or 10 years, with each visit limited to 6 months.",
+  
+  "eligibility_title": "Eligibility and Application Process",
+  "eligibility_content": "Applicants must demonstrate genuine intent to leave the UK at the end of their visit, have sufficient funds for travel and stay, and not engage in work or long-term study. The application is submitted online via the UK Government’s visa portal. Required documents include a valid passport, proof of financial means, travel itinerary, and evidence of accommodation. Some applicants may need to provide biometric data or attend a visa appointment at a Visa Application Centre (VAC).",
+  
+  "benefits_title": "Benefits of Obtaining a UK Visitor Visa",
+  "benefits_content": "The UK Visitor Visa allows travelers to explore iconic destinations such as London, Edinburgh, and Oxford. Visitors can attend cultural events, short academic courses, and business meetings. The visa also enables participation in tourism, medical consultations, and family reunions. With flexible multiple-entry options, travelers can make repeat visits to the UK over several years, depending on the visa validity.",
+  
+  "interview_tips_title": "Visa Application and Interview Tips",
+  "interview_tips_content": "While many UK visa applications do not require an interview, applicants should be well-prepared with accurate and honest information. Strong evidence of ties to their home country—such as employment, education, or property ownership—can help establish credibility. Ensure financial statements are clear and up to date, and present a well-defined travel plan to improve the chances of approval.",
+  
+  "travel_guidelines_title": "Travel Guidelines and Conditions",
+  "travel_guidelines_content": "Holders of the Standard Visitor Visa can typically stay in the UK for up to 6 months per visit. Visitors are not allowed to work, marry, or access public funds. Longer-term multiple-entry visas allow flexibility for frequent travelers but still limit each stay to 6 months. Extensions are only granted in specific cases, such as medical treatment. Visitors must respect all UK laws and leave the country before their visa expires."
+}
+
 ]

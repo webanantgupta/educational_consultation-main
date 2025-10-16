@@ -24,7 +24,7 @@ const Footer = () => {
                   <Col lg="7" md="6" sm="12" className="footer-column">
                     <div className="footer-widget logo-widget">
                       <div className="logo">
-                        <Link to="/">
+                        <Link to="/"> 
                           <div className="icon education_icon py-3 d-flex justify-content">
                             {/* <img src="/images/icon/education.png" alt="" />&nbsp;<h2 className='text-light'>Candid</h2> */}
                             <img src='/images/icon/CandidLogo.png'/>
@@ -33,6 +33,7 @@ const Footer = () => {
                         </Link>
                       </div>
                       <div className="text">
+                        bjbjbj ----
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi cum doloribus soluta necessitatibus tempora asperiores provident, commodi aspernatur, alias deleniti quo aperiam consequatur minus quia reprehenderit architecto, incidunt ratione nam.
                       </div>
                       <ul className="social-icons">

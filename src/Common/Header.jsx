@@ -194,7 +194,7 @@ const Header = () => {
 
                       <li className='dropdown'>
                         <Link to="#" >Contact Us</Link>
-                        <ul style={{ width: '150px' }}>
+                        <ul style={{ width: '250px' }}>
                           <li>
                             <Link to="/contact" >Australia</Link>
                           </li>

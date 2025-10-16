@@ -73,7 +73,8 @@
 
 ***/
 .mainColor {
-	color: #0594ff !important;
+	/* color: #0594ff !important; */
+	color: #001a71 !important;
 }
 
 body {
@@ -12075,20 +12076,25 @@ text-align: center;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	margin: 80px 30px;
-	gap:20px;
+	gap:40px;
 	cursor:pointer;
+	
 }
 
 .grid_container img{
     height: 400px;
 	width: 100%;
 	object-fit: cover;
-	border-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
 }
 
 .grid_container h4{
 	color: black;
 	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 21px;
+	/* height: 50px; */
 }
 
 
@@ -12105,4 +12111,23 @@ text-align: center;
 		display: grid;
 		grid-template-columns: 1fr;
 	}
+}
+
+
+.grid_container_element{
+	position: relative;
+	height: 500px;
+	max-height: 550px;
+	background: #ececec;
+	border-radius: 10px;
+}
+
+
+.grid_container_date{
+	position: absolute;
+	top: 0px;
+	padding: 5px;
+	background-color: white;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
 }

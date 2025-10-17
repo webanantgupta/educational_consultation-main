@@ -161,14 +161,14 @@ const Header = () => {
 
 
 
-                          <li> <Link to="#">Cosultation</Link></li>
-                          <li> <Link to="#">Review Appeals</Link></li>
-                          <li> <Link to="#">Internships</Link></li>
-                          <li> <Link to="#">Training Programs</Link></li>
-                          <li> <Link to="#">Job Ready Program</Link></li>
-                          <li> <Link to="#">Skills Assessment</Link></li>
-                          <li> <Link to="#">Professional Years Course</Link></li>
-                          <li> <Link to="#">English Tests Preparation</Link></li>
+                          <li> <Link to="/ourservice_consultation">Cosultation</Link></li>
+                          <li> <Link to="/ourservice_review">Review Appeals</Link></li>
+                          <li> <Link to="/ourservice_internship">Internships</Link></li>
+                          <li> <Link to="/ourservice_training">Training Programs</Link></li>
+                          <li> <Link to="/ourservice_jobready">Job Ready Program</Link></li>
+                          <li> <Link to="/ourservice_skillassessment">Skills Assessment</Link></li>
+                          <li> <Link to="/ourservice_professional">Professional Years Course</Link></li>
+                          <li> <Link to="/ourservice_englishtest">English Tests Preparation</Link></li>
 
                         </ul>
                       </li>

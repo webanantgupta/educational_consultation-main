@@ -10,7 +10,7 @@ console.log(locate,'locate');
   return (
     <div>
       <PageBreadcrumb title={locate ? locate.title:'News and Update'}/>
-    
+      
     </div>
   )
 }

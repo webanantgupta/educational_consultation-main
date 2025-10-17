@@ -21,6 +21,14 @@ import Visitvisa_America from '../Pages/visitVisa/Visitvisa_America'
 import Visitvisa_Australia from '../Pages/visitVisa/Visitvisa_Australia'
 import Visitvisa_Newzealand from '../Pages/visitVisa/Visitvisa_Newzealand'
 import Visitvisa_UnitedKingdom from '../Pages/visitVisa/Visitvisa_UnitedKingdom'
+import Consultation from '../Pages/ourServices/Consultation'
+import Review from '../Pages/ourServices/Review'
+import Internship from '../Pages/ourServices/Internship'
+import TrainingProgram from '../Pages/ourServices/TrainingProgram'
+import Jobready from '../Pages/ourServices/Jobready'
+import Skillassessment from '../Pages/ourServices/Skillassessment'
+import Professional from '../Pages/ourServices/Professional'
+import EnglishTest from '../Pages/ourServices/EnglishTest'
 
 const AllRoutes = () => {
     return (
@@ -33,7 +41,7 @@ const AllRoutes = () => {
                     <Route path='/contact' element={<ContactUs />} />
                     <Route path='/news_update' element={<NewsAndUpdate />} />
                     <Route path='/news_update_detail' element={<News_UpdateDetails />} />
-                    <Route  path='/study-australia' element={<Study_Australia/>}/>
+                    <Route path='/study-australia' element={<Study_Australia/>}/>
                     <Route path='/study-newzealand' element={<Study_Newzealand/>}/>
                     <Route path='/study-USA' element={<Study_Us/>}/>
                     <Route path="/study-UK" element={<Study_Uk/>}/>
@@ -48,6 +56,16 @@ const AllRoutes = () => {
                     <Route path='/visitvisa_australia' element={<Visitvisa_Australia/>}/>
                     <Route path='/visitvisa_newzealand' element={<Visitvisa_Newzealand/>}/>
                     <Route path='/visitvisa_unitedkingdom' element={<Visitvisa_UnitedKingdom/>}/>
+                    <Route path='/ourservice_consultation' element={<Consultation/>}/>
+                    <Route path='/ourservice_review' element={<Review/>}/>
+                    <Route path='/ourservice_internship' element={<Internship/>}/>
+                    <Route path='/ourservice_training' element={<TrainingProgram/>}/>
+                    <Route path='/ourservice_jobready' element={<Jobready/>}/>
+                    <Route path='/ourservice_skillassessment' element={<Skillassessment/>}/>
+                    <Route path='/ourservice_professional' element={<Professional/>}/>
+                    <Route path='/ourservice_englishtest' element={<EnglishTest/>}/>
+                    
+
 
 
                 </Routes>

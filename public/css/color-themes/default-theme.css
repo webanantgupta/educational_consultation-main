@@ -177,7 +177,7 @@ a,
 .contact-form .form-group input:focus,
 .contact-form .form-group select:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#0594ff;
+	border-color:#001a71;
 }
 
 .back-to-top::after{

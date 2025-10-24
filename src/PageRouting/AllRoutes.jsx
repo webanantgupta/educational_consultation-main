@@ -47,10 +47,10 @@ const AllRoutes = () => {
                     <Route path="/study-UK" element={<Study_Uk/>}/>
                     <Route path='/workvisa_general_skilled' element={<GeneralSkilled/>}/>
                     <Route path='/workvisa_employ_sponcer' element={<EmploySponcer/>}/>
-                    <Route path='/news_updates_australia' element={<News_Australia/>}/>
-                    <Route path='/news_updates_newzealand' element={<News_Zealand/>}/>
-                    <Route path='/news_updates_unitedkingdom' element={<News_UnitedKingdom/>}/>
-                    <Route path='/news_updates_america' element={<News_America/>}/>
+                    <Route path='/news_updates/:country' element={<News_Australia/>}/>
+                    <Route path='/news_updates/:country' element={<News_Zealand/>}/>
+                    <Route path='/news_updates/:country' element={<News_UnitedKingdom/>}/>
+                    <Route path='/news_updates/:country' element={<News_America/>}/>
                     <Route path='/view' element={<ViewGridComponent/>}/>
                     <Route path='/visitvisa_america' element={<Visitvisa_America/>}/>
                     <Route path='/visitvisa_australia' element={<Visitvisa_Australia/>}/>

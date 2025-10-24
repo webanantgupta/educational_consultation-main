@@ -178,16 +178,16 @@ const Header = () => {
                         <Link to="#" >News & Updates</Link>
                         <ul>
                           <li>
-                            <Link to="/news_updates_australia">Australia</Link>
+                            <Link to="/news_updates/Australia">Australia</Link>
                           </li>
                           <li>
-                            <Link to="/news_updates_newzealand">New Zealand</Link>
+                            <Link to="/news_updates/New Zealand">New Zealand</Link>
                           </li>
                           <li>
-                            <Link to="/news_updates_unitedkingdom">UK</Link>
+                            <Link to="/news_updates/United Kingdom">UK</Link>
                           </li>
                           <li>
-                            <Link to="/news_updates_america">USA</Link>
+                            <Link to="/news_updates/United States of America">USA</Link>
                           </li>
                         </ul>
                       </li>

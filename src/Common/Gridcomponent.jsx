@@ -1,23 +1,36 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import moment from 'moment';
+import gridData from "../Data/NewsAndUpdates/NewsData.json"
 
-const Gridcomponent = ({ gridData }) => {
-  // console.log(gridData[0].news);
-  const grid = gridData[0].news;
+const Gridcomponent = () => {
+ const navigate = useNavigate();
+ console.log(gridData);
+ 
+ const {country} = useParams();
+ console.log(country);
+ 
 
-  const ascendingDateorderData = grid.sort((a, b) => moment(b.date) - moment(a.date) );
+
+ const countryData = gridData.find(
+  (item)=> item.country.toLowerCase() === country.toLowerCase()
+ )
+
+if(!countryData){
+  return <p>No news found</p>
+}
 
 
-  const navigate = useNavigate();
+ const sortedData = [...countryData.news].sort((a,b)=> moment(b.date) - moment(a.date)); 
 
-  const handleClick = (obj) => {
-    navigate("/view", { state: obj })
-  }
+const handleClick = (articleData) =>{
+  navigate("/view", {state:{articleData,country:countryData.country}})
+}
+
 
   return (
     <div className='grid_container' >
       {
-        ascendingDateorderData.map((obj, index) => {
+        sortedData.map((obj, index) => {
           return <div className="grid_container_element" key={index} onClick={() => handleClick(obj)}>
             <img src={obj.image} alt={obj.title} />
             <h4>{obj.title}</h4>

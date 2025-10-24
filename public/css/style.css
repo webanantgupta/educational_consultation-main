@@ -12184,7 +12184,7 @@ img {
 	height: 400px;
 	width: 800px;
 	border-radius: 10px;
-	object-fit: cover;
+	object-fit: contain;
 
 }
 
@@ -12257,3 +12257,9 @@ img {
 .coming_container h2 {
 	margin-bottom: 40px;
 }
+
+
+
+/* news and updates CSS here  */
+
+

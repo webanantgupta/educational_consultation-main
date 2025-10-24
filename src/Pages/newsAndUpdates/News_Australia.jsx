@@ -1,12 +1,12 @@
-import newsData from "../../Data/NewsAndUpdates/australia.json"
 import PageBreadcrumb from '../../Common/PageBreadcrumb'
 import Gridcomponent from '../../Common/Gridcomponent'
 
 const News_Australia = () => {
+  const country = "Australia";
   return (
     <div>
-      <PageBreadcrumb title={"Latest news about Australia"}/>
-      <Gridcomponent  gridData={newsData}/>
+      <PageBreadcrumb title={`Latest news about ${country}`}/>
+      <Gridcomponent/>
     </div>
   )
 }

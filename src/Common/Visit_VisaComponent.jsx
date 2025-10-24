@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Visit_VisaComponent = ({ visitData }) => {
-    // console.log(visitData, 'visitData')
+    console.log(visitData, 'visitData')
     return (
         <>
             <div className='visit_visa_container'>

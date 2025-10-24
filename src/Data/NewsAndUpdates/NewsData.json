@@ -1,0 +1,262 @@
+[
+    {
+        "country": "United States of America",
+        "news": [
+            {
+                "id": 1,
+                "title": "US Launches 'STEM Scholars 2025' Grant for International Students",
+                "date": "2025-09-05",
+                "category": "Scholarships",
+                "description": "The US Department of Education has introduced the STEM Scholars 2025 Grant, providing up to $20,000 in financial aid for international students pursuing advanced degrees in science, technology, engineering, and mathematics.",
+                "image": "https://images.unsplash.com/photo-1555374018-13a8994ab246?auto=format&fit=crop&w=1200&q=80",
+                "source": "US Department of Education",
+                "content": "In a move to strengthen America’s leadership in STEM innovation, the US Department of Education has announced the STEM Scholars 2025 Grant. The initiative will fund up to $20,000 per year for top-performing international students in STEM programs at accredited US institutions.\n\nThe program aims to attract global talent in artificial intelligence, data science, biotechnology, and climate technology. Recipients will also gain mentorship access to industry professionals and university research labs. Applications open in November 2025 for the Fall 2026 academic intake."
+            },
+            {
+                "id": 2,
+                "title": "US Universities Dominate Global Rankings 2025",
+                "date": "2025-08-30",
+                "category": "Rankings",
+                "description": "Harvard, Stanford, and MIT continue to lead in global university rankings, maintaining the USA’s strong reputation for academic excellence and research output.",
+                "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+                "source": "QS World University Rankings",
+                "content": "The 2025 QS World University Rankings reaffirm the United States’ dominance in higher education, with five US institutions in the top 10 and over 30 in the top 100. MIT retained its number-one position for the 13th consecutive year, followed by Stanford University and Harvard University.\n\nExperts attribute this continued success to strong research funding, cutting-edge facilities, and extensive collaboration between academia and industry. For international students, the rankings highlight the breadth of opportunity and innovation available across the American education system."
+            },
+            {
+                "id": 3,
+                "title": "US Streamlines Student Visa Process for 2026 Intakes",
+                "date": "2025-09-15",
+                "category": "Visa Update",
+                "description": "The US State Department has announced new measures to expedite F-1 visa approvals, reducing interview wait times and expanding digital document submissions.",
+                "image": "https://img.freepik.com/free-vector/american-flag-usa-text-design_460848-13076.jpg?semt=ais_hybrid&w=740&q=80",
+                "source": "US Embassy India",
+                "content": "To support a record number of student applicants, the US State Department has introduced several enhancements to the visa process. These include expanded appointment slots at embassies, online verification systems, and faster processing times for F-1 and J-1 visas.\n\nThe improvements are part of the 'Study in the USA 2026' initiative, designed to make higher education in America more accessible to global learners. Officials predict that average visa processing time will drop from 8 weeks to under 4 weeks by 2026."
+            },
+            {
+                "id": 4,
+                "title": "University of California Expands Sustainable Campus Program",
+                "date": "2025-08-10",
+                "category": "University Update",
+                "description": "The University of California system has launched a new Sustainable Campus Initiative to promote renewable energy, green infrastructure, and environmental education across all ten campuses.",
+                "image": "https://static.toiimg.com/thumb/84475061/America-name.jpg?width=636&height=358&resize=4",
+                "source": "University of California",
+                "content": "The University of California (UC) has committed to becoming the first public university system in the world to achieve full carbon neutrality by 2035. As part of its Sustainable Campus Initiative, UC will invest in solar farms, electric transport, and sustainable housing for students.\n\nInternational students will have opportunities to participate in research on environmental technology, policy innovation, and renewable energy deployment. The initiative also includes new scholarships for students in environmental sciences and public policy."
+            },
+            {
+                "id": 5,
+                "title": "US Tech Firms Partner with Universities to Offer Paid Internships",
+                "date": "2025-09-25",
+                "category": "Career Opportunities",
+                "description": "Leading American tech companies such as Google, Microsoft, and Tesla are collaborating with universities to provide paid internship programs tailored for international students.",
+                "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1200&q=80",
+                "source": "Tech News Today",
+                "content": "Major technology corporations in the United States have joined forces with top-tier universities to create structured internship pipelines for international students. The initiative provides hands-on experience in AI, robotics, and cloud computing, ensuring students are industry-ready upon graduation.\n\nParticipating institutions include MIT, Carnegie Mellon, and the University of Texas at Austin. The program aligns with America’s push to foster a skilled global workforce capable of contributing to the nation’s growing innovation ecosystem."
+            },
+            {
+                "id": 6,
+                "title": "Post-Study Work Opportunities Expanded for STEM Graduates",
+                "date": "2025-10-04",
+                "category": "Visa Update",
+                "description": "The US government has extended Optional Practical Training (OPT) for STEM graduates, allowing them to work for up to three years after graduation in relevant industries.",
+                "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+                "source": "Homeland Security Department",
+                "content": "The Department of Homeland Security has expanded Optional Practical Training (OPT) for STEM graduates, enabling them to stay and work in the US for up to 36 months after graduation. The policy aims to attract and retain top international talent in technology and science-related fields.\n\nThe updated rules also include stronger employer compliance measures and clearer pathways for transitioning to H-1B and permanent residency visas. Universities and employers have hailed the move as a strategic step to reinforce America’s role as a global innovation hub."
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "news": [
+            {
+                "id": 1,
+                "title": "Australia Launches 'Aussie STEM Scholarships 2025' for International Students",
+                "date": "2025-09-05",
+                "category": "Scholarships",
+                "description": "Australia introduces the Aussie STEM Scholarships 2025, offering up to AUD 25,000 for international students pursuing STEM degrees at top universities.",
+                "image": "https://www.hurrayedutech.com/blog/2023/03/1677822993.png",
+                "source": "Australian Department of Education",
+                "content": "The Aussie STEM Scholarships 2025 aim to attract global talent in fields such as biotechnology, AI, and renewable energy. Students will receive mentorship, lab access, and financial support. Applications open in November 2025 for the 2026 academic intake."
+            },
+            {
+                "id": 2,
+                "title": "Australian Universities Excel in Global Rankings 2025",
+                "date": "2025-08-30",
+                "category": "Rankings",
+                "description": "University of Melbourne and University of Sydney lead Australia’s presence in global university rankings, reflecting excellence in research and teaching.",
+                "image": "https://shanayaconsultancy.in/wp-content/uploads/2024/11/blog-australia.original.width-1200.width-1200-1.jpg",
+                "source": "QS World University Rankings",
+                "content": "The 2025 QS Rankings highlight Australian universities’ strong performance in research impact, faculty quality, and international student diversity."
+            },
+            {
+                "id": 3,
+                "title": "Australia Streamlines Student Visa Process for 2026",
+                "date": "2025-09-15",
+                "category": "Visa Update",
+                "description": "The Australian government introduces faster visa approvals, online submissions, and shorter processing times for international students.",
+                "image": "https://googleedulink.com/wp-content/uploads/2024/01/b0fa4d7782c0d81f436ed7022733a1ed.jpg",
+                "source": "Department of Home Affairs, Australia",
+                "content": "Australia is implementing reforms for student visas, including faster online processing, digital verification, and expanded appointment slots for interviews."
+            },
+            {
+                "id": 4,
+                "title": "Australian Universities Launch Sustainable Campus Programs",
+                "date": "2025-08-10",
+                "category": "University Update",
+                "description": "Universities in Australia are investing in renewable energy, green infrastructure, and environmental research initiatives across campuses.",
+                "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+                "source": "University of Melbourne",
+                "content": "The University of Melbourne and University of Sydney have launched sustainable campus initiatives, focusing on solar panels, electric transport, and energy-efficient buildings."
+            },
+            {
+                "id": 5,
+                "title": "Australian Tech Firms Partner with Universities for Paid Internships",
+                "date": "2025-09-25",
+                "category": "Career Opportunities",
+                "description": "Companies like Atlassian, CSIRO, and Canva collaborate with universities to offer paid internships for international students.",
+                "image": "https://www.immigrationxperts.com/updates/wp-content/uploads/2025/07/breaking-news-australia-student-visa-fee-hike.jpeg",
+                "source": "Tech News Australia",
+                "content": "Australian tech companies provide structured internship programs offering students hands-on experience in software development, data science, and engineering."
+            },
+            {
+                "id": 6,
+                "title": "Post-Study Work Opportunities Expanded for STEM Graduates in Australia",
+                "date": "04-10-2025",
+                "category": "Visa Update",
+                "description": "Australia allows STEM graduates to work up to 3 years post-study, providing pathways to permanent residency.",
+                "image": "https://www.greentreeimmigration.com/blog/wp-content/uploads/2025/05/Australian-Student-visa-latest-news-and-updates.webp",
+                "source": "Department of Home Affairs, Australia",
+                "content": "The post-study work visa has been extended to 36 months for STEM graduates, allowing experience in high-demand sectors and supporting residency pathways."
+            }
+        ]
+    },
+        {
+            "country": "New Zealand",
+            "news": [
+                {
+                    "id": 1,
+                    "title": "New Zealand Launches 'Kiwi STEM Scholarships 2025' for International Students",
+                    "date": "2025-09-05",
+                    "category": "Scholarships",
+                    "description": "New Zealand has introduced the Kiwi STEM Scholarships 2025, offering up to NZD 30,000 for international students pursuing STEM degrees at top universities.",
+                    "image": "https://cdn.britannica.com/25/180825-050-B4693350/Wellington-Harbour-New-Zealand.jpg",
+                    "source": "New Zealand Ministry of Education",
+                    "content": "The Kiwi STEM Scholarships 2025 aim to attract international talent in fields like biotechnology, AI, and environmental science. Students will receive mentorship, research lab access, and financial support. Applications open in November 2025 for the 2026 academic intake."
+                },
+                {
+                    "id": 2,
+                    "title": "New Zealand Universities Shine in Global Rankings 2025",
+                    "date": "2025-08-30",
+                    "category": "Rankings",
+                    "description": "University of Auckland and University of Otago lead New Zealand’s presence in global university rankings, reflecting academic and research excellence.",
+                    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
+                    "source": "QS World University Rankings",
+                    "content": "QS Rankings 2025 highlight New Zealand’s strong academic reputation. Universities excel in research impact, faculty quality, and international diversity, attracting global students."
+                },
+                {
+                    "id": 3,
+                    "title": "New Zealand Streamlines Student Visa Process for 2026",
+                    "date": "2025-09-15",
+                    "category": "Visa Update",
+                    "description": "Immigration NZ introduces faster visa approvals, expanded online services, and reduced interview wait times for international students.",
+                    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1200&q=80",
+                    "source": "Immigration New Zealand",
+                    "content": "New Zealand is implementing visa reforms for international students, including faster F-visa processing, online document submission, and digital verification systems."
+                },
+                {
+                    "id": 4,
+                    "title": "New Zealand Universities Expand Sustainable Campus Programs",
+                    "date": "2025-08-10",
+                    "category": "University Update",
+                    "description": "NZ universities are promoting renewable energy, sustainable infrastructure, and environmental research across campuses.",
+                    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+                    "source": "University of Auckland",
+                    "content": "The University of Auckland and Victoria University have launched Sustainable Campus Initiatives, investing in solar panels, electric transport, and green infrastructure."
+                },
+                {
+                    "id": 5,
+                    "title": "Tech Firms in New Zealand Partner with Universities for Paid Internships",
+                    "date": "2025-09-25",
+                    "category": "Career Opportunities",
+                    "description": "Companies like Xero, Fonterra, and Orion are collaborating with universities to provide internships for international students.",
+                    "image": "https://www.cognitioneducation.co.nz/wp-content/uploads/2023/09/DSF1056_Web-1-1080x675.jpg",
+                    "source": "Tech News NZ",
+                    "content": "NZ tech firms are offering structured internship programs to provide students with hands-on experience in software development, data science, and engineering."
+                },
+                {
+                    "id": 6,
+                    "title": "Post-Study Work Opportunities Expanded for STEM Graduates in New Zealand",
+                    "date": "04-10-2025",
+                    "category": "Visa Update",
+                    "description": "Immigration NZ allows STEM graduates to work up to 3 years post-study, providing pathways to permanent residency.",
+                    "image": "https://media.licdn.com/dms/image/v2/D560BAQEQsMWjDxaSTw/company-logo_200_200/B56ZegPxLZGoAM-/0/1750740178169/education_new_zealand___south_asia_logo?e=2147483647&v=beta&t=orbi1vrGcAxmy_BeF0mHF3cQPPooXRzBbihzEIrV2ZQ",
+                    "source": "Immigration New Zealand",
+                    "content": "Post-study work visas have been extended to 36 months for STEM graduates, allowing them to gain experience in high-demand sectors and transition to residency."
+                }
+            ]
+        },
+         {
+    "country": "United Kingdom",
+    "news": [
+      {
+        "id": 1,
+        "title": "UK Launches 'Britain STEM Scholarships 2025' for International Students",
+        "date": "2025-09-05",
+        "category": "Scholarships",
+        "description": "The UK introduces Britain STEM Scholarships 2025, offering up to £20,000 for international students pursuing STEM degrees at top universities.",
+        "image": "https://www.jeduka.com/storage/newsletter/1678786981_Higher-Education-in-UK.png",
+        "source": "UK Department for Education",
+        "content": "Britain STEM Scholarships 2025 aim to attract global talent in fields such as AI, biotechnology, and clean energy. Students receive mentorship, lab access, and financial support. Applications open in November 2025 for the 2026 academic intake."
+      },
+      {
+        "id": 2,
+        "title": "UK Universities Shine in Global Rankings 2025",
+        "date": "2025-08-30",
+        "category": "Rankings",
+        "description": "University of Oxford and University of Cambridge maintain top positions in global university rankings, highlighting excellence in teaching and research.",
+        "image": "https://www.aeccglobal.vn/images/easyblog_articles/366/UK-Education-System.webp",
+        "source": "QS World University Rankings",
+        "content": "The 2025 QS Rankings highlight the UK’s strong academic reputation. Universities excel in faculty quality, research output, and international diversity, attracting global students."
+      },
+      {
+        "id": 3,
+        "title": "UK Streamlines Student Visa Process for 2026 Intakes",
+        "date": "2025-09-15",
+        "category": "Visa Update",
+        "description": "The UK Home Office introduces faster visa approvals, online document submission, and reduced interview waiting times for international students.",
+        "image": "https://www.aeccglobal.my/images/easyblog_articles/518/UK-Education-System.webp",
+        "source": "UK Home Office",
+        "content": "The UK is implementing visa reforms to simplify applications, including faster processing for Tier 4 (Student) visas, online submission of documents, and digital verification systems."
+      },
+      {
+        "id": 4,
+        "title": "UK Universities Expand Sustainable Campus Programs",
+        "date": "2025-08-10",
+        "category": "University Update",
+        "description": "UK universities invest in renewable energy, green infrastructure, and sustainability research initiatives across campuses.",
+        "image": "https://career-advice.jobs.ac.uk/wp-content/uploads/Why-work-in-higher-education-scaled-e1732885862988-1170x630.jpg.optimal.jpg",
+        "source": "University of Oxford",
+        "content": "Oxford and Cambridge universities have launched sustainable campus initiatives, including solar energy projects, green buildings, and electric transport."
+      },
+      {
+        "id": 5,
+        "title": "UK Tech Firms Partner with Universities for Paid Internships",
+        "date": "2025-09-25",
+        "category": "Career Opportunities",
+        "description": "Companies like DeepMind, Rolls-Royce, and ARM collaborate with universities to provide paid internships for international students.",
+        "image": "https://bizzeducation.com/storage/posts/December2024/1AsOYq4JFzgD7Ci533da.png",
+        "source": "Tech News UK",
+        "content": "UK tech companies are offering structured internship programs to provide students hands-on experience in software development, AI, and engineering."
+      },
+      {
+        "id": 6,
+        "title": "Post-Study Work Opportunities Expanded for STEM Graduates in the UK",
+        "date": "04-10-2025",
+        "category": "Visa Update",
+        "description": "The UK allows STEM graduates to work up to 3 years post-study, providing pathways to permanent residency.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDhk4cWikP7B5Aww5Y3YzzxWGiv2PjIUGnt_aNslQB01KJ4wiwxCtHVfEmJyvugD3H-c&usqp=CAU",
+        "source": "UK Home Office",
+        "content": "The post-study work visa has been extended to 36 months for STEM graduates, allowing work experience in high-demand sectors and supporting residency pathways."
+      }
+    ]
+  }
+    ]

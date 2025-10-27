@@ -1,7 +1,7 @@
 
 
 const NewsComponent = ({ newsData , country }) => {
-console.log(country);
+// console.log(country);
 console.log(newsData);
 
 
@@ -9,18 +9,17 @@ console.log(newsData);
         <>
             {newsData ?
                 <div className='container-fluid '>
-                    <div className="d-flex justify-content-between align-items-center m-5">
-                        <div>
+                    <div className="detail_container d-flex justify-content-between align-items-center m-5">
+                        <div className="detail_heading">
                             <h2>{newsData.title}</h2>
-                            <p>{newsData.description}</p>
+                            <p>{newsData.description}{newsData.content}</p>
+
                         </div>
-                        <div>
+                        <div className="detail_image">
                             <img src={newsData.image} alt={newsData.title} />
                         </div>
                     </div>
-                    <div>
-
-                    </div>
+                    
 
                    
 

@@ -62,7 +62,7 @@ const Header = () => {
                     {/* <img src="images/logo.png" alt="" title="" /> */}
                   </Link>
                   <div className="mobile-nav-toggler pt-4">
-                    <span className="icon flaticon-menu fs-3" onClick={toggleMenu} style={{ cursor: 'pointer', fontSize: '35px', color: '#000' }} />
+                    <span className="icon flaticon-menu fs-3" onClick={toggleMenu} style={{ cursor: 'pointer', fontSize: '35px', color: '#fff' }} />
                   </div>
                 </div>
 

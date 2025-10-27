@@ -12261,5 +12261,37 @@ img {
 
 
 /* news and updates CSS here  */
+.detail_image img{
+  height: 300px;
+width: 500px;
+border-radius: 10px;
+margin: 20px 0px;
+}
+
+.detail_container{
+	gap: 20px;
+}
+
+.detail_heading, .deatil_image{
+	flex: 1;
+}
+
+@media (max-width: 991px){
+	.detail_container{
+		display: flex;
+		flex-direction: column-reverse;
+	}
+	.detail_heading{
+		margin-top: 50px;
+	}
+	.detail_heading p{
+		margin-top: 20px;
+	}
+
+	.detail_image img{
+		width: 100%;
+	}
+}
+
 
 

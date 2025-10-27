@@ -52,12 +52,12 @@ const Header = () => {
         {/* Header Upper */}
         <div className="header-upper ">
           <div className="auto-container">
-            <div className="inner-container clearfix" style={{backgroundColor: "black"}}>
+            <div className="inner-container clearfix" style={{ backgroundColor: "black" }}>
               <div className="pull-left logo-box">
                 <div className="logo py-0 d-flex justify-content-between">
                   <Link to="/">
                     <div className="icon education_icon py-3 d-flex justify-content-between">
-                     <img src='/images/icon/CandidLogo.png' alt='this is logo image'/>
+                      <img src='/images/icon/CandidLogo.png' alt='this is logo image' />
                     </div>
                     {/* <img src="images/logo.png" alt="" title="" /> */}
                   </Link>
@@ -93,11 +93,11 @@ const Header = () => {
                   >
                     <ul className="navigation clearfix">
                       <li className="current">
-                        <Link  to="/">Home</Link>
+                        <Link to="/">Home</Link>
 
                       </li>
                       <li className="">
-                        <Link  to="/our_story">Our Story</Link>
+                        <Link to="/our_story">Our Story</Link>
                       </li>
                       <li className="dropdown">
                         <Link to="#" >Study Visas</Link>
@@ -237,7 +237,7 @@ const Header = () => {
               <div className="nav-logo">
                 <Link to="/">
                   <div className="icon education_icon py-3 d-flex justify-content-between">
-                    <img src="/images/icon/education.png" alt="" />&nbsp;<h2>Candid</h2>
+                    <img src="/public/images/icon/CandidLogo.png" alt="logo" />
                   </div>
                   {/* <img src="images/logo.png" alt="Logo" /> */}
                 </Link>
@@ -251,7 +251,42 @@ const Header = () => {
                 <li className="">
                   <Link to="/our_story" onClick={() => { srollTop(); toggleMenu() }} > Our Story</Link>
                 </li>
-                <li className="">
+              
+                <li className="dropdown">
+                  <Link to="#" onClick={() => toggleSubMenu(4)}>Study Visa</Link>
+                  {openSubMenu === 4 && (
+                    <ul className="submenu">
+                      <li><Link to="/study-australia" onClick={() => { srollTop(); toggleMenu(); }}>Australia</Link></li>
+                      <li><Link to="/study-USA" onClick={() => { srollTop(); toggleMenu(); }}>United States of America</Link></li>
+                      <li><Link to="/study-newzealand" onClick={() => { srollTop(); toggleMenu(); }}>New Zealand</Link></li>
+                      <li><Link to="/study-UK" onClick={() => { srollTop(); toggleMenu(); }}>United Kingdom</Link></li>
+                    </ul>
+                  )}
+                </li>
+
+                <li className='dropdown'>
+                  <Link to="#" onClick={() => toggleSubMenu(5)} >Work Visa</Link>
+                  {openSubMenu === 5 && (
+                    <ul className='submenu'>
+                      <li><Link to="/workvisa_general_skilled" onClick={() => { srollTop(); toggleMenu(); }}>General Skilled Migration</Link></li>
+                      <li><Link to="/workvisa_employ_sponcer" onClick={() => { srollTop(); toggleMenu(); }}>Employer Sponsorship</Link></li>
+                    </ul>
+                  )}
+                </li>
+
+                <li className='dropdown'>
+                  <Link to="#" onClick={() => toggleSubMenu(6)} >Visit Visa</Link>
+                  {openSubMenu === 6 && (
+                    <ul className='submenu'>
+                      <li><Link to="/visitvisa_australia" onClick={() => { srollTop(); toggleMenu(); }}>Australia</Link></li>
+                      <li><Link to="/visitvisa_newzealand" onClick={() => { srollTop(); toggleMenu(); }}>New Zealand</Link></li>
+                      <li><Link to="/visitvisa_uk" onClick={() => { srollTop(); toggleMenu(); }}>United Kingdom</Link></li>
+                      <li><Link to="/visitvisa_america" onClick={() => { srollTop(); toggleMenu(); }}>United States of America</Link></li>
+
+                    </ul>
+                  )}
+                </li>
+                  <li className="">
                   <Link to="#" onClick={() => toggleSubMenu(1)} >Our Services</Link>
                   {openSubMenu === 1 ?
                     <ul className='submenu'>
@@ -292,39 +327,28 @@ const Header = () => {
                           </ul>
                           : ''}
                       </li>
-                      <li className="dropdown">
-                        <Link to="#" onClick={() => toggleSecondSubMenu(4)}>Visas </Link>
-                        {openSecondSubMenu === 4 ?
-                          <ul className='submenu'>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Student Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Student Guardian Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Employer Sponsored Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Partner Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Other Family Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Visitor  Visas</Link></li>
-                            <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Visa Cancellations</Link></li>
-                          </ul>
-                          : ''}
-                      </li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >General Skilled Migration</Link></li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Review Appeals</Link></li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Job ready program</Link></li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >IELTS Preparation Course</Link></li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >PTE Preparation Course</Link></li>
-                      <li> <Link to="#" onClick={() => { srollTop(); toggleMenu() }} >Professional Year Course</Link></li>
+                 
 
                     </ul>
                     : ''}
                 </li>
-                <li className="dropdown">
-                  <Link to="/" onClick={() => { srollTop(); toggleMenu() }} >Find a Course</Link>
+                <li className='dropdown'>
+                  <Link to="/news_update" onClick={() => toggleSubMenu(7)} >News & Updates</Link>
+                  {openSubMenu === 7 && (
+                    <ul className='submenu'>
+                      <li><Link to="/news_updates/Australia" onClick={() => { srollTop(); toggleMenu(); }}>Australia</Link></li>
+                      <li><Link to="/news_updates/New Zealand" onClick={() => { srollTop(); toggleMenu(); }}>New Zealand</Link></li>
+                      <li><Link to="/news_updates/United Kingdom" onClick={() => { srollTop(); toggleMenu(); }}>United Kingdom</Link></li>
+                      <li><Link to="/news_updates/United States of America" onClick={() => { srollTop(); toggleMenu(); }}>United States of America</Link></li>
+
+                    </ul>
+                  )
+
+                  }
                 </li>
-                <li>
-                  <Link to="/news_update" onClick={() => { srollTop(); toggleMenu() }} >News & Updates</Link>
-                </li>
                 <li className="dropdown">
-                  <Link to="#" onClick={() => toggleSubMenu(2)}>Contact Us</Link>
-                  {openSubMenu === 2 ?
+                  <Link to="#" onClick={() => toggleSubMenu(8)}>Contact Us</Link>
+                  {openSubMenu === 8 ?
                     <ul>
                       <li>
                         <Link to="/contact" onClick={() => { srollTop(); toggleMenu() }}>Australia</Link>

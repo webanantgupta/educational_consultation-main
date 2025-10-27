@@ -67,7 +67,7 @@
 ***/
 .mainColor {
 	/* color: #0594ff !important; */
-	color: #001a71 !important;
+	color: #001a71  !important;
 }
 
 body {
@@ -76,7 +76,7 @@ body {
 	color: #777777;
 	line-height: 1.7em;
 	font-weight: 400;
-	background: #ffffff;
+	background: white;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 }
@@ -2227,8 +2227,8 @@ img {
 
 .mobile-menu .close-btn {
 	position: absolute;
-	right: 15px;
-	top: 15px;
+	right: 49px;
+	top: 8px;
 	line-height: 30px;
 	width: 30px;
 	text-align: center;
@@ -10839,7 +10839,7 @@ img {
 	.main-header {
 		position: relative;
 		padding-top: 0px;
-		background-color: #222222;
+		background-color: #fff;
 	}
 
 	.main-header .nav-outer {
@@ -10880,7 +10880,7 @@ img {
 	}
 
 	.main-header .header-top .info-list li a {
-		color: #ffffff;
+		color: black;
 	}
 
 	.main-header .header-top .inner-container .pull-right {
@@ -12292,6 +12292,3 @@ margin: 20px 0px;
 		width: 100%;
 	}
 }
-
-
-
